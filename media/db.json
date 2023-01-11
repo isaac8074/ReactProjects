@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "Stuart Zieme",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Unbranded Frozen Towels",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Wooden Bacon",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=46555",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=67145",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98799",
+      "id": 3
+    }
+  ]
+}
